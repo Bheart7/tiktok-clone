@@ -1,0 +1,14 @@
+.videoSidebar {
+  position: absolute;
+  bottom: 22%;
+  right: 10px;
+  color: white;
+  /* display: grid;
+  grid-template-rows: repeat(3, 1fr);
+  row-gap: 8px; */
+}
+
+.videoSidebar__button {
+  padding: 20px;
+  text-align: center;
+}
